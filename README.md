@@ -1,7 +1,7 @@
 # Call Center Dashboard
 
 ## Overview
-Power BI is a powerful business analytics tool developed by Microsoft. It's designed to provide interactive visualizations and business intelligence capabilities with an intuitive user interface.
+Power BI is a powerful business analytics tool developed by Microsoft. It's designed to provide interactive visualizations and business intelligence capabilities with an intuitive user interface. I have used to develop an intriguing dashboard for the call center dataset in order gain insights in Call center metric's.
 
 ## Dashboard Visualizations
 1. **Answered Calls by Agent**: Visual representation of the number of calls answered by each agent.
