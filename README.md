@@ -26,9 +26,3 @@ This Power BI dashboard provides comprehensive insights into the performance of 
 ## Contributing
 If you'd like to contribute to this project by suggesting improvements, adding new features, or fixing issues, feel free to submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any inquiries or feedback, please contact [Your Name](mailto:your.email@example.com).
-
