@@ -1,7 +1,3 @@
-Creating a README file for your Power BI dashboard project on GitHub is a great idea to provide an overview and guide for users who might be interested in your work. Here's a template you can use:
-
----
-
 # Call Center Dashboard
 
 ## Overview
