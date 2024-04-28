@@ -17,11 +17,11 @@ This Power BI dashboard provides comprehensive insights into the performance of 
 3. **Data Source**: Ensure that you have the necessary permissions to access the dataset used in the dashboard.
 4. **Refreshing Data (if applicable)**: If the dataset is dynamic, refresh the data in Power BI to reflect the latest information.
 5. **Exploring Visualizations**: Interact with the visualizations to gain insights into call center performance metrics.
-6. **Exporting Reports**: Export reports or save them as PDFs for further analysis or sharing with stakeholders.
+6. **Exporting Reports**: Export reports or save them as PDFs for further analysis or sharing.
 
 ## Requirements
-- Microsoft Power BI Desktop: [Download here](https://powerbi.microsoft.com/en-us/desktop/)
-- Access to the Call Center Dataset
+- Microsoft Power BI Desktop: [Download Power BI](https://powerbi.microsoft.com/en-us/desktop/)
+- Call Center Dataset: https://github.com/HarshChaudhary1312/Power_BI-Call_Center_Data_Analysis/blob/main/Call-Center-Dataset.xlsx
 
 ## Contributing
 If you'd like to contribute to this project by suggesting improvements, adding new features, or fixing issues, feel free to submit a pull request.
