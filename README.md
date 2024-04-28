@@ -32,6 +32,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any inquiries or feedback, please contact [Your Name](mailto:your.email@example.com).
 
----
-
-Feel free to customize this template to fit the specifics of your project. Adding screenshots of your dashboard visualizations to the README can also enhance its appeal and provide users with a preview of what to expect.
