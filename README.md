@@ -1,5 +1,5 @@
 # Call Center Dashboard
-<img src="https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2021/06/09171413/Blog-cover-for-call-center-stress.jpg" height="200">
+<img src="https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2021/06/09171413/Blog-cover-for-call-center-stress.jpg" height="300">
 
 ## Overview
 Power BI is a powerful business analytics tool developed by Microsoft. It's designed to provide interactive visualizations and business intelligence capabilities with an intuitive user interface. I have used to develop an intriguing dashboard for the call center dataset in order gain insights in Call center metric's.
